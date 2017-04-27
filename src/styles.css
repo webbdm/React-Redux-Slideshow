@@ -1,0 +1,28 @@
+body{
+  background: url("https://wallpaperscraft.com/image/milky_way_stars_mountains_field_night_45584_2560x1440.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+.main{
+  text-align: center;
+  margin-top: 10%;
+}
+
+.main img{
+  height: 270px;
+  width: 480px;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+h1{
+  color: white;
+}
+
+button{
+  color: white;
+  border-radius: 5px;
+  background-color: navy;
+  border-color: navy;
+  margin: 5px;
+}
