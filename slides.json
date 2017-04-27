@@ -1,0 +1,15 @@
+{
+	"slides": [{
+			"img_url": "http://dummy-images.com/abstract/dummy-480x270-Circus.jpg",
+			"img_caption": "Pattern"
+		},
+		{
+			"img_url": "http://dummy-images.com/abstract/dummy-454x280-Menu.jpg",
+			"img_caption": "Dunes"
+		},
+		{
+			"img_url": "http://dummy-images.com/abstract/dummy-600x370-Goemetry.jpg",
+			"img_caption": "Spiral"
+		}
+	]
+}

@@ -1,4 +1,4 @@
-# WebpackBin project
+# React/Redux Slideshow
 
 ## Start
 
