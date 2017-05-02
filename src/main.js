@@ -5,11 +5,13 @@ import { createStore } from 'redux'
 import counterApp from './reducer'
 import Counter from './Counter'
 
-let store = createStore(counterApp)
+let store = createStore(counterApp);
+let headers =["One","Two"];
+
 
 render(
   <Provider store={store}>
-    <Counter />
+    <Counter headers={headers}/>
   </Provider>,
   document.getElementById('root')
 )

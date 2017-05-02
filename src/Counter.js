@@ -20,7 +20,7 @@ const mapDispatchToProps = (dispatch) => {
 }
 
 
-const Slideshow = ({ onIncrease, onDecrease, count }) => (
+const Slideshow = ({ onIncrease, onDecrease, count, headers }) => (
   <div>
     <div className="main">
         <img/>
@@ -32,11 +32,11 @@ const Slideshow = ({ onIncrease, onDecrease, count }) => (
   </div>
 )
 
-Slideshow.propTypes = {
+{/*Slideshow.propTypes = {
   onIncrease: PropTypes.func.isRequired,
   onDecrease: PropTypes.bool.isRequired,
   count: PropTypes.string.isRequired
-}
+}*/}
 
 
 export default connect(
